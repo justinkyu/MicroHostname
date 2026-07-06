@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+microhostname/__init__.py
+microhostname/__main__.py
+microhostname/cli.py
+microhostname/core.py
+microhostname.egg-info/PKG-INFO
+microhostname.egg-info/SOURCES.txt
+microhostname.egg-info/dependency_links.txt
+microhostname.egg-info/entry_points.txt
+microhostname.egg-info/top_level.txt

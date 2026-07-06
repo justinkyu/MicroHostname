@@ -1,0 +1,2 @@
+[console_scripts]
+microhostname = microhostname.cli:main
