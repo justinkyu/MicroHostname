@@ -49,3 +49,10 @@ Displays and explains system hostname information for educational networking pur
 
 MIT License
 
+
+---
+
+## Screenshot
+
+![Demo](screenshots/demo.jpg)
+
