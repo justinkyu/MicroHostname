@@ -22,4 +22,5 @@ classifiers = [
 microhostname = "microhostname.cli:main"
 
 [tool.setuptools]
+license-files = []
 packages = ["microhostname"]
